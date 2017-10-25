@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Great flat close to center",
     "imageUrl": "https://raw.githubusercontent.com/nmajor/react-workshop-lisbon-data/master/images/flat1.jpg",
     "price": 164,
@@ -8,6 +9,7 @@
     "lng": -9.14144556
   },
   {
+    "id": 2,
     "name": "Trendy Apt with great view",
     "imageUrl": "https://raw.githubusercontent.com/nmajor/react-workshop-lisbon-data/master/images/flat2.jpg",
     "price": 200,
@@ -16,6 +18,7 @@
     "lng": -9.14813596
   },
   {
+    "id": 3,
     "name": "Super 60m2 in trendy neighborhood!",
     "imageUrl": "https://raw.githubusercontent.com/nmajor/react-workshop-lisbon-data/master/images/flat3.jpg",
     "price": 150,
@@ -24,6 +27,7 @@
     "lng": -9.1431106
   },
   {
+    "id": 4,
     "name": "Splendide location, great flat",
     "imageUrl": "https://raw.githubusercontent.com/nmajor/react-workshop-lisbon-data/master/images/flat4.jpg",
     "price": 115,
@@ -32,6 +36,7 @@
     "lng": -9.15890681
   },
   {
+    "id": 5,
     "name": "Lovely studio in the heart of Lisbon",
     "imageUrl": "https://raw.githubusercontent.com/nmajor/react-workshop-lisbon-data/master/images/flat5.jpg",
     "price": 135,
@@ -40,6 +45,7 @@
     "lng": -9.14842232
   },
   {
+    "id": 6,
     "name": "Bohemian and Chic in Lisbon",
     "imageUrl": "https://raw.githubusercontent.com/nmajor/react-workshop-lisbon-data/master/images/flat6.jpg",
     "price": 90,
